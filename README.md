@@ -5,6 +5,7 @@ untetris omg
 Kezelés:
 - A kapott alakzatot "szellem" alakban lehet mozgatni és forgatni szabadon, ezek a forgási szabályok lesznek végig érvényben.
 - Ha az alábbiszabályok érvényesülnek, akkor parancsra (mondjuk enter lenyomása) az alakzat alakú blokkhalmaz szexi módon távozik.
+
 ELVÉTELI SZABÁLYOK:
 - Az alakzat minden blokkja fedjen el egy lerakott blokkot. (alap)
 - Elvett alakzat LEGALÁBB EGYIK blokkja alatt maradjon másik blokk.
